@@ -12,5 +12,5 @@ git commit -m "feat: updated CSS in new-design branch"
 git checkout main
 git merge --no-ff new-design -m "merge: new-design into main"
 # Создать репозиторий на GitHub и затем:
-git remote add origin https://github.com/USERNAME/REPO.git
+git remote add origin https://github.com/SenseiSayaka/kt.git
 git push -u origin main
